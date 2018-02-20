@@ -33,4 +33,6 @@ Sometimes interviewers will be horrible. While that is something interviewees sh
 
 Again, raw coding ability is only a small portion of the actual interview. This means that interviewers should promote critical thinking and clear blockers when needed. This means that if a student is struggling with a concept to the point where it is hindering the progress of the interview. Let them struggle for a bit. Watch them, observe them and keep in mind the face they make and the words they say. After you have a good idea of how a person struggles, there's no need to continue testing them. Help them, give them the solution if needed. There's a lot to test and not that much time.
 
-There's a common
+It's common for students to view interviews as a battle. One side versus the other, "How do I beat the interview?" is a common question that's thrown around. While interviewees may feel this way, it's acutally quite the opposite. The biggest issues that most companies face is finding quality hires. Thus, interviewees are going to be helping interviewers as much as possible. They <i>want</i> to find good hires and they will do everything in their power to see if an interviewer is a strong candidate. You should act appropriately. Feel as if you want the interviewee to succeed. This comes across in both attitude and interview structure.
+
+In short: be tough, but act as if it's in your best interest for them to do well. Only let them struggle to the point where you know how they behave whilst they struggle.
