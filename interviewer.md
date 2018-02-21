@@ -36,3 +36,26 @@ Again, raw coding ability is only a small portion of the actual interview. This 
 It's common for students to view interviews as a battle. One side versus the other, "How do I beat the interview?" is a common question that's thrown around. While interviewees may feel this way, it's acutally quite the opposite. The biggest issues that most companies face is finding quality hires. Thus, interviewees are going to be helping interviewers as much as possible. They <i>want</i> to find good hires and they will do everything in their power to see if an interviewer is a strong candidate. You should act appropriately. Feel as if you want the interviewee to succeed. This comes across in both attitude and interview structure.
 
 In short: be tough, but act as if it's in your best interest for them to do well. Only let them struggle to the point where you know how they behave whilst they struggle.
+
+## The First 15 Minutes
+It's hard to have a "real" conversation with a stranger. Especially if that stranger has to make a life-changing decision. A common strategy used to help interviewees open up is by talking about something that they already know plenty about.
+
+The first topic to cover is the resume.
+
+Go for a single deep dive rather than trying to cover every bullet point. If there is a projects section, ask the candidate to pick one of the projects and explain what they did. Try to get them into it. People love talking about themselves, so if you ask a couple leading vague questions, interviewees should open up and offer information themselves. If you do get stuck here are some questions you can ask to get them back on track.
+* What was the motivation behind starting this project?
+* Detail a technical difficulty you ran into on this project. How did you overcome it?
+* If you were to restart this project what would you differently? What would you do the same
+
+Now, if they don't have any projects on their resume you can go one of two paths.
+
+1. Do the whole project shinding but with work experience / clubs
+2. Focus on an inclass assignment (this is the worse option)
+
+It can be hard to pull it out of students, but in this portion of the interview, you're really just looking for attitude and passion. If an interviewee is passionate, it should show. Take note about the confidence and clarity they discuss their topics. If a student can't articulate properly what their project entailed, that's definitely an issue that will translate to the workplace
+
+#### Why Whiteboard
+OK. This is a hottly contested idea
+
+## The Last 15 Minutes
+The interviewee should be warmed up and loose. Thus begins the dreaded <i>technical</i> part of the technical interview.
