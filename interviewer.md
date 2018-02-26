@@ -55,7 +55,31 @@ Now, if they don't have any projects on their resume you can go one of two paths
 It can be hard to pull it out of students, but in this portion of the interview, you're really just looking for attitude and passion. If an interviewee is passionate, it should show. Take note about the confidence and clarity they discuss their topics. If a student can't articulate properly what their project entailed, that's definitely an issue that will translate to the workplace
 
 #### Why Whiteboard
-OK. This is a hottly contested idea
+OK. This is getting into a huge debate that's ongoing in the field of computer science. If you only have 15/30 minutes to figure out if an applicant got the sauce, how the hell can you tell how they're going to be for 8 hours a day for the rest of their life?
+
+For a short while there were the logic questions. These have mostly gone out of style. These are probably the ones you've heard of and subsequently went, "Dude! [insert_tech_companies_name] is insane!" Something along the lines of:
+* How many golf balls fit in a bus?
+* Why are manhole covers round?
+* How many people in the US own cars?
+
+These definitely will pop up every once in a while, but in general, these are no longer relevant. While there may be a <i>correlation</i> between figuring these out and being a good software engineer, it's a tenuous one - at best.
 
 ## The Last 15 Minutes
-The interviewee should be warmed up and loose. Thus begins the dreaded <i>technical</i> part of the technical interview.
+The interviewee should be warmed up and loose. Thus begins the dreaded <i>technical</i> part of the technical interview. For this, use one of the problems attached. Keep in mind to only allow the interviewee to struggle a productive amount. Feel free to answer many clarifying questions, when prompted with one, try to give an answer that fulfuills the question as long as it doesn't blatantly answer the question (unless they need it).
+
+When they provide you with a solution the first thing you should check for is correctness of logic. Generally speaking, ignore syntax mistakes. If the logic looks sounds, look for problems with edge cases. If all of those seem sound ask for the Big O notation and ask them if they can see any ways to further optimize their solution.
+
+In general, here are the steps for helping an interviewee along:
+1. Hint that there may be a problem / what the problem may be
+  * "Are you considering all the edge cases?"
+  * "Have you considered the problems with the data structure you're using?"
+2. Give examples of cases where the issue may arise
+  * "What would happen if an empty array was passed in?"
+  * "What are the advantages of using a stack vs a queue in this situation?"
+3. Give them the correct answer, but ask them why that answer is correct
+  * "If you pass in an empty array, you cannot access the first element of the array. How would you prevent this and why is this a problem?"
+  * "If you use a stack you will be doing FIFO, but the problem would be best done with a LIFO solution. Why would you want to use a queue instead of a stack?"
+
+The largest takeaway from this section is this: <b>ask questions.</b> Questions in the right direction are usually the best way to spur creativity and will allow you to further see their thought process as the attempt to come up with the correct answer.
+
+##
